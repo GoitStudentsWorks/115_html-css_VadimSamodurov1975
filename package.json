@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/TargetIT/",
+    "build": "vite build --base=/115_html-css_VadimSamodurov1975/",
     "preview": "vite preview"
   },
   "devDependencies": {
